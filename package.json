@@ -1,0 +1,26 @@
+{
+  "name": "uirouter-ids",
+  "version": "1.0.0",
+  "description": "UI Router\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DUsing UI Router with IDs appended to URL",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pra85/ui-router-ids-example.git"
+  },
+  "keywords": [
+    "angular",
+    "ui-router"
+  ],
+  "author": "Prayag Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pra85/ui-router-ids-example/issues"
+  },
+  "homepage": "https://github.com/pra85/ui-router-ids-example#readme",
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
