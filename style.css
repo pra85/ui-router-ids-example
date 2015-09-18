@@ -1,0 +1,7 @@
+/* Styles go here */
+
+.click {
+  cursor:pointer;
+  color: -webkit-link;
+    text-decoration: underline;
+}
